@@ -8,9 +8,6 @@
     - [3. Data Cleaning](#3-data-cleaning)
     - [4. Data Storage](#4-data-storage)
     - [5. Data Analysis & Visualization](#5-data-analysis--visualization)
-- [File Structure](#file-structure)
-- [How to Use](#how-to-use)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
